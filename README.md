@@ -6,7 +6,6 @@ In this project there is an analysis of a dataset that contains about 40K differ
 
 ![](images/htesting.jpg)
 
----
 
 
 ## **First Steps**
@@ -14,6 +13,15 @@ In this project there is an analysis of a dataset that contains about 40K differ
  In the notebooks file, there is a Jupyter notebook where there is a exploratiory analysis with a summary of statistics including descriptive statistics (max, min, mean, standard deviation, percentiles, correlations, etc.) in order to understand a litlle bit better the composition of the dataset.
 
 Moreover, there are several data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner (Box Plots, Histograms, Bar Plots, Scatter Plots, Correlation Matrix, etc.).
+
+## **Libraries used**
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Cufflinks
+6. Plotly
+
 
 
 
