@@ -4,7 +4,7 @@
 
 In this project there is an analysis of a dataset that contains about 40K different type of diamonds and each diamond has several characteristics thah make each of them unique. The purpose was to obtain some insights and try to figure out which were those characteristics that afected on the price of each piece.
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+![Images/htesting.jpg]
 
 ---
 
