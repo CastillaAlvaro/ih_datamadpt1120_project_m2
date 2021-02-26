@@ -2,7 +2,7 @@
 
 # Data Project README file
 
-In this project there is an analysis of a dataset that contains about 40K different type of diamonds and each diamond has several characteristics thah make each of them unique. The purpose was to obtain some insights and try to figure out which were those characteristics that afected on the price of each piece.
+In this project there is an analysis of a dataset that contains about 40K different type of **diamonds** (obtained form Kaggle) and each diamond has several characteristics thah make each of them unique. The purpose was to obtain some insights and try to figure out which were those characteristics that afected on the price of each piece.
 
 ![](images/htesting.jpg)
 
@@ -10,18 +10,10 @@ In this project there is an analysis of a dataset that contains about 40K differ
 
 
 ## **First Steps**
-1. Clone github
-2. Update gitignore:
-# iOS
-.DS_Store
 
-# PyCharm
-.idea
+ In the notebooks file, there is a Jupyter notebook where there is a exploratiory analysis with a summary of statistics including descriptive statistics (max, min, mean, standard deviation, percentiles, correlations, etc.) in order to understand a litlle bit better the composition of the dataset.
 
-3. Hide credentials
-4. Add some code
-5. Update readme
-6. Fix the code
+Moreover, there are several data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner (Box Plots, Histograms, Bar Plots, Scatter Plots, Correlation Matrix, etc.).
 
 
 
